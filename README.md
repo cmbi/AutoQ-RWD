@@ -1,6 +1,6 @@
 # AutoQ-RWD
 
-This project is called **Auto**mated data **Q**uality Metrics Assesment in **R**eal **W**orld **D**ata for Common Data Elements (CDE).
+This project is called **Auto**mated data **Q**uality Metrics Assesment in **R**eal **W**orld **D**ata.
 
 It tries to apply metrics derived from the European Medicine Agency (EMA) Quality Metrics and other sources for the Common Data Elements present in a model. In this use case, the model used to retrieve the metrics is the [CARE-SM](https://github.com/CARE-SM/CARE-Semantic-Model) semantic model. These metrics can also be applied to many other data models.
 
