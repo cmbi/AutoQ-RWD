@@ -128,8 +128,8 @@ if not combined_results.empty:
 
 
 
-# Patients with mulitple disability checks
-st.subheader("% Patients with mulitple disability checks")
+# Patients with multiple disability checks
+st.subheader("% Patients with multiple disability checks")
 
 st.markdown(
     """
